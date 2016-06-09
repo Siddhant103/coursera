@@ -31,6 +31,7 @@
 .row {
 	margin:auto;
 }
+	
 @media (max-width: 767px){
 	#collapsable-nav {
 	background-color: #D1D0CE;
@@ -47,4 +48,8 @@
 #nav-list li:hover {
 	background: #E7E7E7;
 }
+#nav-list li {
+	border :1px solid black;
+}
+	
 }
