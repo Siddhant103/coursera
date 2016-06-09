@@ -1,0 +1,50 @@
+.container {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+#header-nav {
+	background-color: #F3E5AB;
+	border-radius: 0;
+	border: 0px;
+	margin-bottom: 0px;
+}
+
+.navbar-brand {
+	margin-top:0px;
+	margin-bottom: 0px;
+	font-size: 2em;
+}
+
+.container-fluid {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+#menu {
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+.chicken {
+		padding-left: 10px;
+		padding-right: 10px;
+		background-color: #B6B6B4;
+}
+.row {
+	margin:auto;
+}
+@media (max-width: 767px){
+	#collapsable-nav {
+	background-color: #D1D0CE;
+	padding: 0px;
+}	
+#nav-list {
+	margin: 0px;
+	text-align: center;
+}
+#nav-list ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#nav-list li:hover {
+	background: #E7E7E7;
+}
+}
